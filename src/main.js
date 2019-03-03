@@ -10,9 +10,9 @@ const { Message, OpType, Location } = require('../curve-thrift/line_types');
 //let exec = require('child_process').exec;
 
 //TOLONG GANTI SEMUA SEPERTI LOCKUPDATEGROUP TAPI MSG SERTA UNMUTE/MUTE JAN LU OTAK ATIK BEGO~//
-const myBott = ['u14f64e139a3817afaabe27d237afb36b','u49f93172b8c8865683dd2d47ccbb8613','uafa4799654e54457c87031c450f1ae42','u9e95a04f463bca969d248318b63281d0','u8bc7bff0a03e8a6e62d710a615c43dc3','uf2e49f5a15357adee664f757e1bedbfd'];//TARO MID LU DISINI SUPAYA BISA PKE COMMAND STAFF
+const myBott = ['ufe1707ae9b2ff7ab61505795b7995440'];//TARO MID LU DISINI SUPAYA BISA PKE COMMAND STAFF
 
-const myBot = ['u14f64e139a3817afaabe27d237afb36b','u49f93172b8c8865683dd2d47ccbb8613','uafa4799654e54457c87031c450f1ae42','u9e95a04f463bca969d248318b63281d0','u8bc7bff0a03e8a6e62d710a615c43dc3','uf2e49f5a15357adee664f757e1bedbfd'];//TARO MID LU DISINI
+const myBot = ['ufe1707ae9b2ff7ab61505795b7995440'];//TARO MID LU DISINI
 var vx = {};var midnornama = "";var pesane = "";var kickhim = "";var waitMsg = "no";//DO NOT CHANGE THIS
 
 function isAdminOrBot(param) {
